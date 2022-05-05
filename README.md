@@ -30,3 +30,6 @@ Insertar tres viajes en la bdd.
 Extras:
 
 Dump de la base de datos.
+
+
+![diagrama](ERD.png)
